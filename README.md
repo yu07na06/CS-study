@@ -1,7 +1,7 @@
 # CS-study
 ### 👨🏻‍💻 Member
 ---
-|[![박유나](https://avatars.githubusercontent.com/u/87966321?v=4){: width="100" height="100"}](https://github.com/account)|[![최진웅](https://avatars.githubusercontent.com/u/90309088?v=4){: width="100" height="100"}](https://github.com/20131827)|
+|<a href="https://github.com/yu07na06"><img src="https://avatars.githubusercontent.com/u/87966321?v=4" width="100" height="100"/></a>|<a href="https://github.com/20131827"><img src="https://avatars.githubusercontent.com/u/90309088?v=4" width="100" height="100"/></a>|
 |---|---|
 |박유나|최진웅|
 
@@ -18,9 +18,9 @@
 
 ### ✏️ Topic
 ---
-[] CS 공통 질문 200개
-[] 분야별 CS 개념 100개씩(네트워크 운영체제 데이터베이스 자료구조 자바 스프링)
-[] 기업별 CS 면접 질문 리스트 
+- [ ] CS 공통 질문 200개
+- [ ] 분야별 CS 개념 100개씩(네트워크 운영체제 데이터베이스 자료구조 자바 스프링)
+- [ ] 기업별 CS 면접 질문 리스트 
 
 ### 🗓 Schedule
 |data|activity|comment|
